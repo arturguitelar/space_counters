@@ -1,0 +1,76 @@
+--14-10-2016
+build alpha 01
+	implementado core do jogo, modelo mvp
+	nave atirando
+	números inimigos caindo	
+	números inimigos com valor random de 1 a 9
+	score
+	gameover
+	efeitos de explosão e sound effects
+
+--18-10-2016
+build alpha 02
+	implementação de perca de vidas do player
+	player perde vida ao colidir com números
+	retirado o módulo que fazia os números girarem
+		motivo: com este modelos de números ficava confuso entender qual era o número 9
+		e o número 6, ou qual era o número 2 e o número 5
+	adicionadas novas funções de controle ao GameController
+	acrescentado score de vidas do player
+	* modificada estrutura de pastas de build
+
+--22-10-2016
+build alpha 03
+	foram adicionadas features de desafio
+		embora não haja ainda um controlador para que os outros desafios possam ser jogados, toda a parte interna de funcionamento já está funcionando, ou seja, já tem desafio de soma, subtrair e multiplicar, mas na build só está o de somar habilitado
+	adicionada lógica de perder vidas e ganhar pontos de acordo com o desafio
+	quando o desafio está sendo "gerado", player fica intangível e não pode atirar
+	adicionados "warnings" de aviso e placar de desafios
+
+--24-10-2016
+build alpha 04
+	adicionadas cores e sistema de vida aos inimigos
+		- inimigos vermelhos morrem com 1 tiro
+		- inimigos verdes morrem com 2 tiros
+		- inimigos azuis morrem com 3 tiros
+	o player só é penalizado com -1 vida caso DESTRUA um dos inimigos. Caso um tiro acerte um inimigo e não o mate, nada acontece.
+
+--27-10-2016
+build alpha 05
+	fases implementadas
+	desafios implementados
+	cheat para mudar de fase: teclas numéricas. Cada tecla é uma fase. São 7 fases.
+	refatoração de partes do código
+	player pode ver quantos acertos faltam para mudar de fase
+	implementados avisos de processamento do desafio
+	quando o player erra a conta, fica intangível e sem poder atirar até processar o próximo desafio
+	Agora tecla Esc fecha o jogo
+
+--27-10-2016
+build alpha 06
+	score e lives são salvos de uma fase para a outra
+	restart da fase faz com que score e live voltem ao que eram no começo da fase
+	refatoração e separação de responsabilidades no GameController
+
+--28-10-2016
+build beta 01
+	Adicionados menus e submenus
+	submenus ainda estão incompletos
+	Adiconada funcionalidade de voltar ao menu apertando "Esc" enquanto estiver no jogo
+	Botão de quit game funcionando
+
+30-10-2016
+build beta 02
+	Adicionado menu ingame que pausa o jogo e dá opções de "Menu" (ir para o menu), "Continuar" e "Sair"
+
+30-10-2016
+build beta 03
+	Adicionados screens do tutorial e dos créditos
+	Adicionado música de fundo do menu
+	Adicionada telinha de winner
+
+05-11-2016
+versão final
+	Adionadas músicas de Menu e Background
+	Menu de Dificuldade antes de iniciar a tela
+	Scripts Controladores de dificuldade do jogo
