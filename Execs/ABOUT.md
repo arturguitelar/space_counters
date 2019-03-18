@@ -1,0 +1,1 @@
+Aqui se encontram todas as builds do projeto. São versões executáveis que foram usadas para testes na época de criação do projeto na faculdade.

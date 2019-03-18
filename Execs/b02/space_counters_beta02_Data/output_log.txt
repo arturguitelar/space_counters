@@ -1,0 +1,50 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     944 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Builds\b02\space_counters_beta02_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Builds\b02\space_counters_beta02_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Builds\b02\space_counters_beta02_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Builds\b02\space_counters_beta02_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Builds\b02\space_counters_beta02_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Builds\b02\space_counters_beta02_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Builds\b02\space_counters_beta02_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Builds\b02\space_counters_beta02_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Builds\b02\space_counters_beta02_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Builds\b02\space_counters_beta02_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.146 seconds
+Platform assembly: C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Builds\b02\space_counters_beta02_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Builds\b02\space_counters_beta02_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.916984 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 32f8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.535458 ms
+
+Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 902.
+Total: 0.478426 ms (FindLiveObjects: 0.043026 ms CreateObjectMapping: 0.040658 ms MarkObjects: 0.366714 ms  DeleteObjects: 0.027631 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.812377 ms
+
+Unloading 554 unused Assets to reduce memory usage. Loaded Objects now: 310.
+Total: 1.076065 ms (FindLiveObjects: 0.107369 ms CreateObjectMapping: 0.113290 ms MarkObjects: 0.493426 ms  DeleteObjects: 0.360004 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.488689 ms
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 902.
+Total: 0.558164 ms (FindLiveObjects: 0.094343 ms CreateObjectMapping: 0.050526 ms MarkObjects: 0.374214 ms  DeleteObjects: 0.037895 ms)
+
+exit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+

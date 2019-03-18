@@ -1,0 +1,46 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     944 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Space Counters\Builds\b01\space_counters_beta01_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Space Counters\Builds\b01\space_counters_beta01_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Space Counters\Builds\b01\space_counters_beta01_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Space Counters\Builds\b01\space_counters_beta01_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Space Counters\Builds\b01\space_counters_beta01_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Space Counters\Builds\b01\space_counters_beta01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Space Counters\Builds\b01\space_counters_beta01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Space Counters\Builds\b01\space_counters_beta01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Space Counters\Builds\b01\space_counters_beta01_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Space Counters\Builds\b01\space_counters_beta01_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.057 seconds
+Platform assembly: C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Space Counters\Builds\b01\space_counters_beta01_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Artur\Documents\Exercicios\Unity\Space Counters\Space Counters\Builds\b01\space_counters_beta01_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.734613 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1460 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.333575 ms
+
+Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 854.
+Total: 0.887773 ms (FindLiveObjects: 0.068290 ms CreateObjectMapping: 0.094343 ms MarkObjects: 0.655665 ms  DeleteObjects: 0.068290 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.042906 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 854.
+Total: 0.859352 ms (FindLiveObjects: 0.080921 ms CreateObjectMapping: 0.082895 ms MarkObjects: 0.676981 ms  DeleteObjects: 0.016973 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.201198 ms
+
+Unloading 554 unused Assets to reduce memory usage. Loaded Objects now: 309.
+Total: 1.063038 ms (FindLiveObjects: 0.055263 ms CreateObjectMapping: 0.081316 ms MarkObjects: 0.480005 ms  DeleteObjects: 0.445268 ms)
+
